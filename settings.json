@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Natsuki",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Natsuki",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "tsundere_mc.aternos.me",
+    "port": 57908,
     "version": "1.21.1"
   },
   "position": {
